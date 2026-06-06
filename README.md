@@ -285,7 +285,7 @@ The analysis is intended as a tissue-level cross-species comparison and does not
 
 If you use this workflow, data processing strategy, or analysis framework, please cite:
 
-Madkoor M.
+Madkoor M,2026.
 
 Cross-Species Proteomic Analysis of Human and Mouse Dorsal Root Ganglia Reveals Conserved and Divergent Molecular Signatures.
 
